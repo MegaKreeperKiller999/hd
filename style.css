@@ -1,0 +1,70 @@
+body{
+    background-color: black
+    }
+.popa:hover{
+opacity: 1;
+
+}
+.popa{
+opacity: 0;
+color: red;
+transition: all 0.5s ease-in-out;
+}
+.ol{
+background-color: silver;
+color: red;
+}
+.ol{
+transition: all 1s ease-in-out;
+}
+ul{
+background-color:darkgreen;
+color: yellow;
+}
+.richi{
+background-color: yellow;
+color: darkgreen;
+}
+nav a{
+background-color: royalblue;
+color: whitesmoke;
+border: black solid 1px;
+border-radius: 30px;
+padding: 5px;
+}
+ol{
+background-color: yellow;
+color: darkgreen;
+}
+.pelmeni{
+color: yellow;
+background-color: darkgreen;
+}
+.pel{
+color: white;
+}
+.y{
+color: white;
+}
+.k{
+color: white;
+}
+.angry_gus{
+position: absolute;
+width: 100%;
+height: 300px;
+}
+.happy_gus{
+position: absolute;
+width: 100%;transition: all ease-in-out 1s ;
+}
+.gus{
+background-image: url();
+}
+.happy_gus:hover{
+opacity: 0;
+
+}
+.easter_egg{
+color: white;
+}
